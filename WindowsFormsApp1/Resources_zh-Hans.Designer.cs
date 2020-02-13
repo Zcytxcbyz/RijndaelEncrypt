@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace RijndaelEncryption.Properties {
+namespace RijndaelEncryption {
     using System;
     
     
@@ -22,14 +22,14 @@ namespace RijndaelEncryption.Properties {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resources {
+    internal class Resources_zh_Hans {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
         private static global::System.Globalization.CultureInfo resourceCulture;
         
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal Resources() {
+        internal Resources_zh_Hans() {
         }
         
         /// <summary>
@@ -39,7 +39,7 @@ namespace RijndaelEncryption.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("RijndaelEncryption.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("RijndaelEncryption.Resources_zh-Hans", typeof(Resources_zh_Hans).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -61,7 +61,7 @@ namespace RijndaelEncryption.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Decryption_successful. 的本地化字符串。
+        ///   查找类似 解密成功。 的本地化字符串。
         /// </summary>
         internal static string Decryption_successful {
             get {
@@ -70,7 +70,7 @@ namespace RijndaelEncryption.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Encryption_successful. 的本地化字符串。
+        ///   查找类似 加密成功。 的本地化字符串。
         /// </summary>
         internal static string Encryption_successful {
             get {
@@ -79,7 +79,7 @@ namespace RijndaelEncryption.Properties {
         }
         
         /// <summary>
-        ///   查找类似 All Files (*.*)|*.* 的本地化字符串。
+        ///   查找类似 所有文件 (*.*)|*.* 的本地化字符串。
         /// </summary>
         internal static string Filter {
             get {

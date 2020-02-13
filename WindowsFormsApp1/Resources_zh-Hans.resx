@@ -118,12 +118,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Decryption_successful" xml:space="preserve">
-    <value>Decryption_successful.</value>
+    <value>解密成功。</value>
   </data>
   <data name="Encryption_successful" xml:space="preserve">
-    <value>Encryption_successful.</value>
+    <value>加密成功。</value>
   </data>
   <data name="Filter" xml:space="preserve">
-    <value>All Files (*.*)|*.*</value>
+    <value>所有文件 (*.*)|*.*</value>
   </data>
 </root>

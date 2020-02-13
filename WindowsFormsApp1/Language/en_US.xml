@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <title>Rijndael Encryption Tool</title>
+  <path>path</path>
+  <key>key</key>
+  <browsefiles>Browse files</browsefiles>
+  <encrypt>Encrypt</encrypt>
+  <decrypt>Decrypt</decrypt>
+  <filter>All files (*.*)|*.*</filter>
+</root>

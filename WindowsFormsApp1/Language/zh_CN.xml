@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <title>Rijndael加密工具</title>
+  <path>路径</path>
+  <key>密钥</key>
+  <browsefiles>浏览文件</browsefiles>
+  <encrypt>加密</encrypt>
+  <decrypt>解密</decrypt>
+  <filter>所有文件 (*.*)|*.*</filter>
+</root>

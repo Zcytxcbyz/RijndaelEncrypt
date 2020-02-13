@@ -117,13 +117,29 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Decryption_successful" xml:space="preserve">
-    <value>Decryption_successful.</value>
+  <data name="btn_brofiles.Text" xml:space="preserve">
+    <value>浏览文件</value>
   </data>
-  <data name="Encryption_successful" xml:space="preserve">
-    <value>Encryption_successful.</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="lbl_path.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 17</value>
   </data>
-  <data name="Filter" xml:space="preserve">
-    <value>All Files (*.*)|*.*</value>
+  <data name="lbl_path.Text" xml:space="preserve">
+    <value>路径</value>
+  </data>
+  <data name="btn_ect.Text" xml:space="preserve">
+    <value>加密</value>
+  </data>
+  <data name="btn_dct.Text" xml:space="preserve">
+    <value>解密</value>
+  </data>
+  <data name="lbl_key.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 17</value>
+  </data>
+  <data name="lbl_key.Text" xml:space="preserve">
+    <value>密钥</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Rijndael加密工具</value>
   </data>
 </root>
