@@ -51,6 +51,12 @@ namespace RijndaelEncryption
                 Decryption_successful = Resources_zh_Hans.Decryption_successful;
                 Encryption_successful = Resources_zh_Hans.Encryption_successful;
                 Filter = Resources_zh_Hans.Filter;
+                this.Text = Resources_zh_Hans.Title;
+                lbl_path.Text = Resources_zh_Hans.Path;
+                lbl_key.Text = Resources_zh_Hans.Key;
+                btn_brofiles.Text = Resources_zh_Hans.Browse_files;
+                btn_ect.Text = Resources_zh_Hans.Encrypt;
+                btn_dct.Text = Resources_zh_Hans.Decrypt;
             }
             else
             {

@@ -61,11 +61,38 @@ namespace RijndaelEncryption {
         }
         
         /// <summary>
+        ///   查找类似 浏览文件 的本地化字符串。
+        /// </summary>
+        internal static string Browse_files {
+            get {
+                return ResourceManager.GetString("Browse files", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 解密 的本地化字符串。
+        /// </summary>
+        internal static string Decrypt {
+            get {
+                return ResourceManager.GetString("Decrypt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   查找类似 解密成功。 的本地化字符串。
         /// </summary>
         internal static string Decryption_successful {
             get {
                 return ResourceManager.GetString("Decryption_successful", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 加密 的本地化字符串。
+        /// </summary>
+        internal static string Encrypt {
+            get {
+                return ResourceManager.GetString("Encrypt", resourceCulture);
             }
         }
         
@@ -84,6 +111,33 @@ namespace RijndaelEncryption {
         internal static string Filter {
             get {
                 return ResourceManager.GetString("Filter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 密钥 的本地化字符串。
+        /// </summary>
+        internal static string Key {
+            get {
+                return ResourceManager.GetString("Key", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 路径 的本地化字符串。
+        /// </summary>
+        internal static string Path {
+            get {
+                return ResourceManager.GetString("Path", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 Rijndael加密工具 的本地化字符串。
+        /// </summary>
+        internal static string Title {
+            get {
+                return ResourceManager.GetString("Title", resourceCulture);
             }
         }
     }
